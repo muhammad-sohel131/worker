@@ -6,7 +6,8 @@ const regularForm = document.getElementById('regularForm')
 const openAddWorkerForm = document.querySelector('.open-add-worker-form')
 const addWorker = document.querySelector('.add-worker')
 
-document.querySelector('.colse-add-modal').addEventListener('click', () => {
+document.querySelector('.colse-add-modal').addEventListener('click', (e) => {
+    e.preventDefault()
     addWorker.classList.toggle('active-modal')
 })
 
