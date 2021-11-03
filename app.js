@@ -113,8 +113,7 @@ summaryBody.addEventListener('click', (e) => {
 document.querySelector('.close-btn').addEventListener('click', () => {
     document.querySelector('.modal-section').classList.toggle('active-modal')
 })
-       
-
+    
 submitButton.addEventListener('click', (e) => {
     e.preventDefault()
     const date = new Date().getDate()
