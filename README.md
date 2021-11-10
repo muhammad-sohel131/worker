@@ -5,7 +5,7 @@ This is the application for taking accounts information of workers. In the <b>De
 </p>
 
 ### Demo--
-<img src='image/form.png'>
-<img src='image/info.png'>
+<img style="width:500px" src='image/form.png' />
+<img style="width:500px" src='image/info.png' />
 
-<a target="_blank" href=" https://muhammad-sohel131.github.io/worker/">Live Demo</a>
+[Live Demo](https://muhammad-sohel131.github.io/worker)
